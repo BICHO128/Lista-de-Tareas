@@ -20,7 +20,6 @@ export const TodoApp = () => {
     return (
         <div>
             <h1>Lista de Tareas</h1>
-            <h2>Utilizando React con TypeScript</h2>
             <h3>Tareas Pendientes</h3>
             <p>{listaTareas.length}</p>
 
